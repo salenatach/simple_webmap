@@ -1,2 +1,2 @@
 # simple_webmap
-simple webmap
+CSULB webmap
